@@ -45,15 +45,15 @@ This project was a collaboration between four researchers:
 
 ## 📂 Repository Structure
 
-├── datasets/ # Various levels of cleaned and filtered datasets
+├── datasets/ --> Various levels of cleaned and filtered datasets
 
-├── finbert_labeling.ipynb # Initial sentiment labeling, separated for runtime efficiency
+├── finbert_labeling.ipynb --> Initial sentiment labeling, separated for runtime efficiency
 
-├── more_data_preprocessing.ipynb # yfinance utilization for extracting stock market features to prep model
+├── more_data_preprocessing.ipynb --> yfinance utilization for extracting stock market features to prep model
 
-├── basic_model.ipynb # Modeling & evaluation
+├── basic_model.ipynb --> Modeling & evaluation
 
-└── README.md # You're here!
+└── README.md --> You're here!
 
 ---
 
